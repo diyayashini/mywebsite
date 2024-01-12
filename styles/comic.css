@@ -1,0 +1,40 @@
+body {
+  background-image: url("../images/hobbies/Background.jpg");
+  background-size: cover;
+}
+.reyna {
+  background-color: rgb(187, 187, 239);
+}
+img {
+  width: 100%;
+}
+.hiding {
+  background-color: rgb(147, 190, 204);
+}
+.hi {
+  border: solid;
+  border-radius: 20px;
+  width: 25%;
+  margin: 50px;
+}
+h1 {
+  color: azure;
+}
+.Nico {
+  background-color: rgb(132, 131, 127);
+}
+.Keefe {
+  background-color: rgb(119, 173, 223);
+}
+.freedom {
+  background-color: darkseagreen;
+}
+.agent {
+  padding: 20px;
+}
+.bye{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+align-items: center;
+}

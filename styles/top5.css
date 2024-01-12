@@ -1,0 +1,87 @@
+body {
+  background-image: url("../images/hobbies/Background.jpg");
+  background-size: cover;
+  color: white;
+}
+img {
+  height: 200px;
+}
+/* p{
+    color: white;
+}
+li{
+    color: white;
+} */
+a {
+  color: white;
+}
+
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/  */
+
+.top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* border-color: black; */
+  
+}
+
+.abc {
+  /* border: solid;
+  border-radius: 20px;
+  width: 25%;
+  margin: 50px; */
+  /* border-color: black; */
+}
+
+.g {
+  border: solid;
+  /* border-color: black; */
+  border-radius: 20px;
+  width: 25%;
+  margin: 50px;
+  background-color: darkseagreen;
+  border-color: black;
+}
+
+.n {
+  border: solid;
+  border-radius: 20px;
+  width: 25%;
+  margin: 50px;
+  border-color: black;
+  background-color: gray;
+}
+
+.r {
+  border: solid;
+  border-radius: 20px;
+  width: 25%;
+  margin: 50px;
+  border-color: black;
+  background-color: plum;
+}
+
+.f {
+  border: solid;
+  border-radius: 20px;
+  width: 25%;
+  margin: 50px;
+  border-color: black;
+  background-color: rgb(228, 183, 98);
+}
+
+.s {
+  border: solid;
+  border-radius: 20px;
+  width: 25%;
+  margin: 50px;
+  border-color: black;
+  background-color: rgb(255, 230, 89);
+}
+
+p {
+  /* padding-left: 20px */
+  font-size: 20px;
+}

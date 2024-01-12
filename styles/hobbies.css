@@ -1,0 +1,54 @@
+ul {
+  list-style-type: circle;
+}
+p {
+  font-family: "Calligraffitti", cursive;
+  font-family: "Freehand", cursive;
+  font-family: "Libre Baskerville", serif;
+  line-height: 1.5em;
+  font-style: italic;
+  font-size: 20px;
+  color: #edfbf5;
+}
+li {
+  font-family: "Freehand", cursive;
+  font-weight: 800;
+  font-size: 25px;
+}
+body {
+  background-image: url("../images/hobbies/Background.jpg");
+  background-size: cover;
+}
+h1 {
+  color: white;
+}
+li {
+  color: rgb(255, 255, 255);
+  font-family: "Calligraffitti", cursive;
+  font-family: "Freehand", cursive;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 100;
+  font-size: xx-large;
+}
+img {
+    width: 100%;
+}
+
+.abc {
+  border: solid;
+  border-radius: 20px;
+  width: 25%;
+   background-color: rgb(119, 173, 223);
+}
+  .top{
+    padding: 20px;
+    height: 650px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+  .parent{
+     display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+  align-items: center;
+  } 
